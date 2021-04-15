@@ -22,8 +22,8 @@
 
 [![Google Slides Doc][product-screenshot]](https://docs.google.com/presentation/d/1_4puNtXrlCzhIQxMrtNWU7Ir7iYex6j79A5C43IwSwg/present#slide=id.p)
 
-By doing a Real Time Communication (RTC) web application we save local memory over native applications and avoid installing add-ons but still getting quality of service. 
-**As long as the device runs a web browser you would be able to access right the way.**
+By applying a parser to the lexical analysis and a sintax analysis we can determine a model where we can proccess different kind of inputs. 
+**Input will be associated to a set of rules defined by user**
 
 ### Built With
 
