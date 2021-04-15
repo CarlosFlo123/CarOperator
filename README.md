@@ -38,7 +38,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-* Install Node.js [https://nodejs.org/en/]
+* Check the following Presentation to understand the basic concept [https://docs.google.com/presentation/d/1_4puNtXrlCzhIQxMrtNWU7Ir7iYex6j79A5C43IwSwg/present#slide=id.gcd2c5bca64_0_2]
 
 ### Installation of flex
  
