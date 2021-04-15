@@ -65,12 +65,9 @@ gcc lex.yy.c
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-* Video and/or Audio connections
-* Multi-party video chat
-* Text Messaging with or without Data Channels
-* Screen and tab sharing
-* File transfer
-* Client side video recording
+* Any input related with the tokens we have
+* When tracking a car system
+* When trying to emulate functioning
 
 _For more information, please refer to the [Documentation](http://easyrtc.com/docs/)_
 
