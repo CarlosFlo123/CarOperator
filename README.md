@@ -38,7 +38,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-* Check the following Presentation to understand the basic concept [![Google Slides Doc](https://docs.google.com/presentation/d/1_4puNtXrlCzhIQxMrtNWU7Ir7iYex6j79A5C43IwSwg/present#slide=id.p)
+* Check the following Presentation to understand the basic concept ![Google Slides Doc](https://docs.google.com/presentation/d/1_4puNtXrlCzhIQxMrtNWU7Ir7iYex6j79A5C43IwSwg/present#slide=id.p)
 
 ### Installation of flex
  
