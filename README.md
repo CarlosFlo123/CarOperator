@@ -40,26 +40,27 @@ To get a local copy up and running follow these simple steps.
 
 * Install Node.js [https://nodejs.org/en/]
 
-### Installation
+### Installation of flex
  
-1. Clone the repo
+1. Update your terminal
 ```sh
-git clone https://github.com/CarlosFlo123/WebAppRTC.git webRTC
+sudo get-apt update
 ```
-2. Once in `\webRTC\` 
+2. We install flex 
 ```sh
-npm init
+sudo get-apt flex
 ```
+3. Setting up our .l document
 ```sh
-npm install
+lex car.l
 ```
-3. Inside `webRTC\node_modules\`
+4. Now we execute our .c file created by flex (step 3)
 ```sh
-npm install
+gcc lex.yy.c
 ```
-4. Back at `\webRTC\`
+5. Running the executable file
 ```sh
-node server.js
+./a.out
 ```
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -107,7 +108,7 @@ POSSIBILITY OF SUCH DAMAGE.
 
 Carlos Flores Valero  - [@carlosflova](https://twitter.com/carlosflova) - carlosfvsoft@gmail.com
 
-Project Link: [https://github.com/CarlosFlo123/WebAppRTC.git](https://github.com/CarlosFlo123/WebAppRTC.git)
+Project Link: [GoogleSlides](https://docs.google.com/presentation/d/1_4puNtXrlCzhIQxMrtNWU7Ir7iYex6j79A5C43IwSwg/present#slide=id.p)
 
 
 
